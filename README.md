@@ -13,12 +13,9 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mizumoto-cn&theme=solarized&utcOffset=8)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mizumoto-cn&theme=solarized)
 
-<link rel="stylesheet" href="/path/to/styles/default.min.css">
-<script src="/path/to/highlight.min.js"></script>
-<script>hljs.highlightAll();</script>
 <details><summary>About Me</summary>
 <pre>
-    <code class="golang">
+    <code language="golang">
         Mizumoto := struct {
             Name string
             Age int
