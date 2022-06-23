@@ -4,6 +4,7 @@
 
 <h1 align="left">
   <b>&nbsp;&nbsp;&nbsp;Mizumoto</b>
+  <img src="https://img.shields.io/badge/-Go-98b982?style=for-the-badge&logo=go&logoColor=98b982&labelColor=efefdf" align="middle">
 </h1>
 <br/><p align="left">&nbsp;&nbsp;&nbsp;&nbsp;Research student at U.Tokyo. Looking for job as backend engineer.</p><br/>
 
