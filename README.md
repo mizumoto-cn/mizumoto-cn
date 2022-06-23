@@ -6,12 +6,13 @@
   <b>Mizumoto</b>
 </h1>
 <br/>
-</center>
 
 ![card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mizumoto-cn&theme=solarized)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mizumoto-cn&theme=solarized&utcOffset=8)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mizumoto-cn&theme=solarized)
+
+</center>
 
 <details><summary>About Me</summary>
 <pre>
