@@ -7,6 +7,17 @@
 </h1>
 <br/>
 
+<p align="right">Research student at U.Tokyo. Looking for job as backend engineer.</p>
+<p align="center">
+
+[TRPcG ✈](https://github.com/mizumoto-cn/TRPcG) a fast, stable, light-weight and high-performance RPC framework for Go.
+
+[Go Balancer 🚦](https://github.com/mizumoto-cn/GoBalancer) A fast, stable, light-weight layer-7 load balancer written in go. Based on `net/http/httputil`, also a load-balancing algorithm library.
+
+
+
+</p>
+
 ![card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mizumoto-cn&theme=solarized)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mizumoto-cn&theme=solarized&utcOffset=8)
