@@ -5,8 +5,10 @@
 <h1 align="left">
   <b>&nbsp;&nbsp;&nbsp;Mizumoto</b>
   <img src="https://img.shields.io/badge/-Go-98b982?style=for-the-badge&logo=go&logoColor=98b982&labelColor=efefdf" align="middle">
+  <img width="33.2%" height="33.2%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mizumoto-cn&theme=gruvbox&utcOffset=9" / align="right">
 </h1>
-<br/><p align="left">&nbsp;&nbsp;&nbsp;&nbsp;Research student at U.Tokyo. Looking for job as backend engineer.</p><br/>
+<br/><p align="left">&nbsp;&nbsp;&nbsp;&nbsp;Research student at U.Tokyo.<br/>
+Looking for job as backend engineer.</p><br/>
 
 <p align="center">
 
@@ -18,7 +20,9 @@
 
 </p>
 <p align="left">
-<img width="33.2%" src="https://github-readme-stats.vercel.app/api?username=mizumoto-cn&show_icons=true&theme=gruvbox&hide_border=true" /><img width="33.2%" src="https://github-readme-streak-stats.herokuapp.com/?user=mizumoto-cn&theme=gruvbox&hide_border=true" /><img width="33.2%" height="33.2%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mizumoto-cn&theme=gruvbox&utcOffset=9" />
+<img width="49.4%" src="https://github-readme-stats.vercel.app/api?username=mizumoto-cn&show_icons=true&theme=gruvbox&hide_border=true" />
+<img width="49.4%" src="https://github-readme-streak-stats.herokuapp.com/?user=mizumoto-cn&theme=gruvbox&hide_border=true" />
+
 </p>
 
 ![card](https://activity-graph.herokuapp.com/graph?username=mizumoto-cn&custom_title=Abhigyan%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545))
