@@ -18,13 +18,10 @@
 
 </p>
 <p align="left">
-<img width="33.2%" src="https://github-readme-stats.vercel.app/api?username=mizumoto-cn&show_icons=true&theme=gruvbox&hide_border=true" /><img width="33.2%" src="https://github-readme-streak-stats.herokuapp.com/?user=mizumoto-cn&theme=gruvbox&hide_border=true" /><img width="33.2%" height="45%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mizumoto-cn&theme=gruvbox&utcOffset=9" />
+<img width="33.2%" src="https://github-readme-stats.vercel.app/api?username=mizumoto-cn&show_icons=true&theme=gruvbox&hide_border=true" /><img width="33.2%" src="https://github-readme-streak-stats.herokuapp.com/?user=mizumoto-cn&theme=gruvbox&hide_border=true" /><img width="33.2%" height="33.2%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mizumoto-cn&theme=gruvbox&utcOffset=9" />
 </p>
 
 ![card](https://activity-graph.herokuapp.com/graph?username=mizumoto-cn&custom_title=Abhigyan%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545))
-
-![]()
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mizumoto-cn&theme=solarized)
 
 </center>
 
