@@ -7,8 +7,12 @@
   <img src="https://img.shields.io/badge/-Go-98b982?style=for-the-badge&logo=go&logoColor=98b982&labelColor=efefdf" />
   <img width="33.2%" height="33.2%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mizumoto-cn&theme=github&utcOffset=9"  align="right" />
 </h1>
-<br/><p align="left">&nbsp;&nbsp;&nbsp;&nbsp;Research student at U.Tokyo.<br/>
-Looking for job as backend engineer.</p><br/>
+<br/><p align="left"><!--&nbsp;&nbsp;&nbsp;&nbsp;Research student at U.Tokyo.<br/>
+Looking for job as backend engineer.-->
+
+[Home | 豚窝](mizumoto-cn.github.io)
+
+</p><br/>
 
 <p align="center">
 
