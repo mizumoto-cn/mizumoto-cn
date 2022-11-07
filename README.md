@@ -9,16 +9,14 @@
   <img width="36%" src="https://github-readme-streak-stats.herokuapp.com/?user=mizumoto-cn&theme=vue&hide_border=true" align="right"/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=456&center=true&vCenter=true&width=200&height=24&lines=Mizumoto-cn" alt="Typing SVG" align="center"/><br/><br/>
   <img src="https://img.shields.io/badge/-Go-98b982?style=for-the-badge&logo=go&logoColor=98b982&labelColor=efefdf" align="center"/>
-
+  <p align="center">
+  
   [🌱 Home | 豚窝](https://mizumoto-cn.github.io)
   
+  </p>
 </p>
 </p>
   <!--img width="33.2%" height="33.2%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mizumoto-cn&theme=github&utcOffset=9"  align="right" /-->
-
-
-
-
 
 <p align="center">
 
@@ -60,6 +58,9 @@
 </pre>
 </details>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 **mizumoto-cn/mizumoto-cn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -74,6 +75,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
