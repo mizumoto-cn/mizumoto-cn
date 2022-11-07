@@ -10,9 +10,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=456&center=true&vCenter=true&width=200&height=24&lines=Mizumoto-cn" alt="Typing SVG" align="center"/><br/><br/>
   <img src="https://img.shields.io/badge/-Go-98b982?style=for-the-badge&logo=go&logoColor=98b982&labelColor=efefdf" align="center"/>
   <p align="center">
-  
-  [🌱 Home | 豚窝](https://mizumoto-cn.github.io)
-  
+    <a href="https://mizumoto-cn.github.io" align="center">🌱 Home | 豚窝 🌱</a>
   </p>
 </p>
 </p>
