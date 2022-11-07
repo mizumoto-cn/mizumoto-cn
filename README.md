@@ -3,7 +3,7 @@
 <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/98146267?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" alt="Avatar" width="150" height="150" style="border-radius:50%;" align="left">
 
 <h1 align="left">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=456&center=true&vCenter=true&width=435&lines=Mizumoto-cn" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=456&center=true&vCenter=true&width=200&height=24&lines=Mizumoto-cn" alt="Typing SVG" /></a>
   <img src="https://img.shields.io/badge/-Go-98b982?style=for-the-badge&logo=go&logoColor=98b982&labelColor=efefdf" />
   <img width="33.2%" height="33.2%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mizumoto-cn&theme=github&utcOffset=9"  align="right" />
 </h1>
