@@ -57,6 +57,14 @@
 </details>
 
 <!--START_SECTION:waka-->
+
+```text
+Total Time: 39 mins
+
+Markdown   30 mins         ███████████████████▒░░░░░   77.73 %
+YAML       8 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.27 %
+```
+
 <!--END_SECTION:waka-->
 
 <!--
