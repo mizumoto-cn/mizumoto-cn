@@ -3,18 +3,22 @@
 <!--img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/98146267?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" alt="Avatar" width="150" height="150" style="border-radius:50%;" align="left"-->
 <img src="image.png" alt="Avatar" width="150" height="150" style="border-radius:50%;" align="left">
 
-<h1 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=456&center=true&vCenter=true&width=200&height=24&lines=Mizumoto-cn" alt="Typing SVG" />
-  <img src="https://img.shields.io/badge/-Go-98b982?style=for-the-badge&logo=go&logoColor=98b982&labelColor=efefdf" align="right"/>
-  <img width="33.2%" src="https://github-readme-streak-stats.herokuapp.com/?user=mizumoto-cn&theme=vue&hide_border=true" />
+<p>
+<p align="center" width="54%">
+  <br />
+  <img width="36%" src="https://github-readme-streak-stats.herokuapp.com/?user=mizumoto-cn&theme=vue&hide_border=true" align="right"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=456&center=true&vCenter=true&width=200&height=24&lines=Mizumoto-cn" alt="Typing SVG" align="center"/><br/><br/>
+  <img src="https://img.shields.io/badge/-Go-98b982?style=for-the-badge&logo=go&logoColor=98b982&labelColor=efefdf" align="center"/>
+
+  [🌱 Home | 豚窝](https://mizumoto-cn.github.io)
+  
+</p>
+</p>
   <!--img width="33.2%" height="33.2%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mizumoto-cn&theme=github&utcOffset=9"  align="right" /-->
-</h1>
-<br/><p align="left"><!--&nbsp;&nbsp;&nbsp;&nbsp;Research student at U.Tokyo.<br/>
-Looking for job as backend engineer.-->
 
-[🌱 Home | 豚窝](https://mizumoto-cn.github.io)
 
-</p><br/>
+
+
 
 <p align="center">
 
