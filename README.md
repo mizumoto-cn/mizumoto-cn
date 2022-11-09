@@ -59,13 +59,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 3 hrs 23 mins
+Total Time: 8 hrs 59 mins
 
-Go                2 hrs 18 mins   █████████████████░░░░░░░░   68.26 %
-Markdown          33 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.54 %
-YAML              21 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.63 %
-Protocol Buffer   9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
-Docker            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Go                5 hrs 6 mins    ██████████████▒░░░░░░░░░░   56.89 %
+Protocol Buffer   57 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.63 %
+YAML              48 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.95 %
+Makefile          46 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 %
+Markdown          38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.17 %
+Other             15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
 ```
 
 <!--END_SECTION:waka-->
