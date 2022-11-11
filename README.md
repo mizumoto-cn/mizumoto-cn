@@ -36,7 +36,7 @@
 
 </center>
 
-<details><summary>About Me</summary>
+<details><summary>About Me (Click Here)</summary>
 <pre>
     <code language="golang">
         Mizumoto := struct {
@@ -47,7 +47,7 @@
             blog string
         }{
             Name:           "Mizumoto",
-            Age:            24,
+            Age:            25,
             Location:       "Tokyo/Kanagawa, Japan",
             Nationality:    China 🇨🇳
             blog:           "mizumoto-cn.github.io"
@@ -56,6 +56,7 @@
 </pre>
 </details>
 
+<h4>📊 Weekly development breakdown</h4>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
