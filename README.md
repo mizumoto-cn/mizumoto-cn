@@ -36,7 +36,9 @@
 
 </center>
 
-<details><summary>About Me (Click Here)</summary>
+<br />
+
+<details><summary align="left" style="color:#0612ff;font-weight:bold;font-size:17px" >📫 About Me <sub style="color:#ff2344">(Click here!)</sub></summary>
 <pre>
     <code language="golang">
         Mizumoto := struct {
@@ -45,18 +47,29 @@
             Location string
             Nationality string
             blog string
+            email string
         }{
             Name:           "Mizumoto",
             Age:            25,
             Location:       "Tokyo/Kanagawa, Japan",
             Nationality:    China 🇨🇳
             blog:           "mizumoto-cn.github.io"
+            email:          "mizumotokunn@gmail.com"
         }
     </code>
 </pre>
 </details>
 
-<h4>📊 Weekly development breakdown</h4>
+<br />
+
+<h3 align="left" style="color:#2412ff;font-weight:bold;"> 🏆 My Github Trophies </h3>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mizumoto-cn&theme=gruvbox&column=7&margin-w=15&margin-h=15" />
+</div>
+
+<br />
+
+<h3 align="left" style="color:#2412ff;font-weight:bold;">📊 Weekly development breakdown</h3>
 <!--START_SECTION:waka-->
 
 ```text
