@@ -73,10 +73,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 1 hr 53 mins
+Total Time: 15 mins
 
-Go                1 hr 39 mins    ██████████████████████░░░   88.36 %
-Protocol Buffer   13 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.64 %
+Go   14 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
