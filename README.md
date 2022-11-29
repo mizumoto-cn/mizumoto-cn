@@ -73,9 +73,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 15 mins
+Total Time: 0 secs
 
-Go   14 mins         █████████████████████████   100.00 %
+Go   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
