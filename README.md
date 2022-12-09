@@ -73,7 +73,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Total Time: 19 mins
+
+Properties   9 mins          ███████████▓░░░░░░░░░░░░░   46.50 %
+Markdown     6 mins          ████████▒░░░░░░░░░░░░░░░░   33.68 %
+Scala        2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.84 %
+JSON         1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
 ```
 
 <!--END_SECTION:waka-->
