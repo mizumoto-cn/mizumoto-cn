@@ -73,12 +73,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 19 mins
+Total Time: 1 hr 7 mins
 
-Properties   9 mins          ███████████▓░░░░░░░░░░░░░   46.50 %
-Markdown     6 mins          ████████▒░░░░░░░░░░░░░░░░   33.68 %
-Scala        2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.84 %
-JSON         1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
+Markdown     49 mins         ██████████████████▒░░░░░░   72.96 %
+Properties   9 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.35 %
+Go           5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 %
+Scala        2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
+JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
