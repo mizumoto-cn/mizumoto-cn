@@ -73,12 +73,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 2 hrs 11 mins
+Total Time: 58 mins
 
-Scala        1 hr 8 mins     █████████████░░░░░░░░░░░░   51.86 %
-Go           46 mins         ████████▓░░░░░░░░░░░░░░░░   35.23 %
-Markdown     13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.43 %
-Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+Go           44 mins         ███████████████████░░░░░░   76.41 %
+Markdown     13 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.36 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+Haskell      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
