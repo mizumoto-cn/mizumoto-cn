@@ -73,12 +73,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 22 mins
-
-Markdown     12 mins         █████████████▒░░░░░░░░░░░   53.60 %
-Go           10 mins         ███████████░░░░░░░░░░░░░░   44.63 %
-Git Config   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
