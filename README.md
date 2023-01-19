@@ -73,12 +73,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 5 hrs 15 mins
+Total Time: 2 mins
 
-Go      4 hrs 35 mins   █████████████████████▓░░░   87.30 %
-JSON    39 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.50 %
-Scala   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Go      2 mins          █████████████████████▒░░░   85.31 %
+Scala   0 secs          ███▓░░░░░░░░░░░░░░░░░░░░░   14.69 %
 ```
 
 <!--END_SECTION:waka-->
