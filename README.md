@@ -73,10 +73,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 2 mins
+Total Time: 19 mins
 
-Go      2 mins          █████████████████████▒░░░   85.31 %
-Scala   0 secs          ███▓░░░░░░░░░░░░░░░░░░░░░   14.69 %
+Markdown   17 mins         █████████████████████▓░░░   87.16 %
+Go         2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.96 %
+Scala      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
 ```
 
 <!--END_SECTION:waka-->
