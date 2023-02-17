@@ -73,9 +73,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 0 secs
+Total Time: 1 hr 24 mins
 
-No activity tracked
+Go                1 hr 23 mins    ████████████████████████▓   99.20 %
+JSON              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+Protocol Buffer   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
