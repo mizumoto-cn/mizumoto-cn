@@ -73,13 +73,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 47 mins
+Total Time: 0 secs
 
-Go                34 mins         ██████████████████░░░░░░░   72.66 %
-YAML              11 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.93 %
-Protocol Buffer   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
-JSON              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
-Other             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
