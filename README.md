@@ -73,14 +73,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 46 hrs 32 mins
+Total Time: 37 hrs 34 mins
 
-Vue.js            24 hrs 44 mins  █████████████▒░░░░░░░░░░░   53.17 %
-Go                12 hrs 18 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.45 %
-TypeScript        5 hrs 4 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.90 %
-Protocol Buffer   2 hrs 19 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
-YAML              53 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
-JSON              31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+Vue.js            17 hrs 54 mins  ████████████░░░░░░░░░░░░░   47.66 %
+Go                12 hrs 17 mins  ████████▒░░░░░░░░░░░░░░░░   32.72 %
+TypeScript        3 hrs 6 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 %
+Protocol Buffer   2 hrs 18 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 %
+YAML              54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+JSON              28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
 ```
 
 <!--END_SECTION:waka-->
