@@ -73,12 +73,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 58 mins
+Total Time: 0 secs
 
-TypeScript        24 mins         ██████████▒░░░░░░░░░░░░░░   41.64 %
-Vue.js            13 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.77 %
-Go                11 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.33 %
-Protocol Buffer   9 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.25 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
