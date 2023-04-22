@@ -73,10 +73,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 42 mins
+Total Time: 0 secs
 
-Go      41 mins         █████████████████████████   99.72 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
