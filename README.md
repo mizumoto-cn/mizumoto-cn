@@ -73,13 +73,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 25 hrs 23 mins
+Total Time: 23 hrs 13 mins
 
-Python            13 hrs 41 mins  █████████████▒░░░░░░░░░░░   53.90 %
-Vue.js            3 hrs 52 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.25 %
-Go                2 hrs 35 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.18 %
-Protocol Buffer   1 hr 14 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
-TypeScript        1 hr 12 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
+Python            13 hrs 41 mins  ██████████████▓░░░░░░░░░░   58.93 %
+Vue.js            3 hrs 51 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.62 %
+Go                1 hr 16 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
+TypeScript        1 hr 12 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
+Text              55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
 ```
 
 <!--END_SECTION:waka-->
