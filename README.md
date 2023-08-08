@@ -73,13 +73,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 22 hrs 39 mins
+Total Time: 21 hrs 28 mins
 
-Python            16 hrs 13 mins  ██████████████████░░░░░░░   71.61 %
-HTML              3 hrs 39 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.15 %
-Other             1 hr 8 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
-Go                17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
-Protocol Buffer   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+Python            14 hrs 54 mins  █████████████████▒░░░░░░░   69.43 %
+HTML              3 hrs 19 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.51 %
+Other             1 hr 11 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
+Text              33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
+Go                24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
 ```
 
 <!--END_SECTION:waka-->
