@@ -53,8 +53,8 @@
             Age:            25,
             Location:       "Tokyo/Kanagawa, Japan",
             Nationality:    China 🇨🇳
-            blog:           "mizumoto-cn.github.io"
-            email:          "mizumotokunn@gmail.com"
+            blog:           "blog.mizumoto.tech"
+            email:          "mizumoto@mizumoto.tech"
         }
     </code>
 </pre>
