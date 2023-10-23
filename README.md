@@ -73,13 +73,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 2 mins
+Total Time: 2 mins
 
-Go                34 mins         ██████████████░░░░░░░░░░░   55.80 %
-Markdown          22 mins         █████████░░░░░░░░░░░░░░░░   36.52 %
-Protocol Buffer   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
-Python            1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
-Other             0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+Go   2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
