@@ -73,13 +73,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 40 hrs 23 mins
+Total Time: 39 hrs 21 mins
 
-TypeScript   18 hrs 56 mins  ███████████▓░░░░░░░░░░░░░   46.88 %
-Vue.js       18 hrs 4 mins   ███████████▒░░░░░░░░░░░░░   44.73 %
-Python       1 hr 1 min      ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
-Java         45 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
-YAML         39 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+Vue.js       21 hrs 30 mins  █████████████▓░░░░░░░░░░░   54.66 %
+TypeScript   15 hrs 6 mins   █████████▓░░░░░░░░░░░░░░░   38.37 %
+Python       1 hr 8 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
+YAML         39 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
+Kotlin       19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
 ```
 
 <!--END_SECTION:waka-->
