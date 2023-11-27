@@ -73,13 +73,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 31 hrs 30 mins
+Total Time: 23 hrs 4 mins
 
-Vue.js       22 hrs 5 mins   █████████████████▓░░░░░░░   70.15 %
-TypeScript   7 hrs 1 min     █████▓░░░░░░░░░░░░░░░░░░░   22.29 %
-INI          1 hr 16 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
-Python       59 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
-Makefile     6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+Vue.js       16 hrs 12 mins  █████████████████▓░░░░░░░   70.23 %
+TypeScript   5 hrs 31 mins   ██████░░░░░░░░░░░░░░░░░░░   23.98 %
+INI          1 hr 3 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
+Python       9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+Makefile     6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
 ```
 
 <!--END_SECTION:waka-->
