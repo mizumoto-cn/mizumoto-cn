@@ -73,13 +73,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 35 hrs 18 mins
+Total Time: 34 hrs 15 mins
 
-Vue.js                     16 hrs 38 mins  ███████████▓░░░░░░░░░░░░░   47.13 %
-TypeScript                 8 hrs 33 mins   ██████░░░░░░░░░░░░░░░░░░░   24.23 %
-Go                         3 hrs 43 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.53 %
-Nginx configuration file   1 hr 1 min      ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
-YAML                       1 hr 1 min      ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
+Vue.js                     14 hrs 22 mins  ██████████▒░░░░░░░░░░░░░░   41.97 %
+TypeScript                 9 hrs 52 mins   ███████▒░░░░░░░░░░░░░░░░░   28.84 %
+Go                         3 hrs 7 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.13 %
+Python                     1 hr 21 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
+Nginx configuration file   1 hr 5 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
 ```
 
 <!--END_SECTION:waka-->
