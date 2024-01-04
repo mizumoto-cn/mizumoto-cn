@@ -73,13 +73,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 6 hrs
+Total Time: 0 secs
 
-Vue.js       3 hrs 54 mins   ████████████████▒░░░░░░░░   65.14 %
-TypeScript   1 hr 36 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.87 %
-HTML         24 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.71 %
-Python       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
