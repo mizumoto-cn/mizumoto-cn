@@ -73,9 +73,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 3 mins
+Total Time: 12 mins
 
-Vue.js   3 mins          █████████████████████████   100.00 %
+Vue.js   12 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
