@@ -73,9 +73,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 4 hrs 54 mins
 
-No activity tracked
+Go                2 hrs           ██████████▒░░░░░░░░░░░░░░   40.94 %
+Protocol Buffer   1 hr 21 mins    ███████░░░░░░░░░░░░░░░░░░   27.63 %
+Markdown          58 mins         █████░░░░░░░░░░░░░░░░░░░░   19.77 %
+YAML              23 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 %
+Other             5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
 ```
 
 <!--END_SECTION:waka-->
