@@ -73,13 +73,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 7 hrs 35 mins
+Total Time: 10 hrs 30 mins
 
-Go                3 hrs 9 mins    ██████████▒░░░░░░░░░░░░░░   41.58 %
-Protocol Buffer   2 hrs 27 mins   ████████░░░░░░░░░░░░░░░░░   32.45 %
-Markdown          58 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.78 %
-JSON              25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
-YAML              23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 %
+Go                5 hrs 44 mins   █████████████▓░░░░░░░░░░░   54.69 %
+Protocol Buffer   2 hrs 46 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.36 %
+Markdown          58 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.23 %
+JSON              25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
+YAML              25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
 ```
 
 <!--END_SECTION:waka-->
