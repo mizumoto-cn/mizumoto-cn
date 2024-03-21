@@ -73,9 +73,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 37 mins
+Total Time: 4 hrs 54 mins
 
-JSON   37 mins         █████████████████████████   100.00 %
+JSON   4 hrs 54 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
