@@ -73,13 +73,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 27 hrs 36 mins
+Total Time: 27 hrs 7 mins
 
-Vue.js       5 hrs 38 mins   █████░░░░░░░░░░░░░░░░░░░░   20.41 %
-YAML         4 hrs 54 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.80 %
-Other        4 hrs           ███▓░░░░░░░░░░░░░░░░░░░░░   14.52 %
-HTML         3 hrs 24 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.34 %
-Markdown     2 hrs 28 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.97 %
+Vue.js       5 hrs 34 mins   █████░░░░░░░░░░░░░░░░░░░░   20.56 %
+Other        4 hrs 45 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.55 %
+YAML         4 hrs 31 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.70 %
+Python       3 hrs 9 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.66 %
+HTML         2 hrs 53 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.66 %
 ```
 
 <!--END_SECTION:waka-->
