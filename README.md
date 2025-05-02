@@ -73,12 +73,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 hrs 24 mins
+Total Time: 0 secs
 
-Vue.js       1 hr 42 mins    █████████████████▓░░░░░░░   71.18 %
-Terraform    25 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.62 %
-JavaScript   16 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.15 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
