@@ -73,13 +73,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 17 hrs 44 mins
+Total Time: 12 hrs 53 mins
 
-Vue.js       10 hrs 3 mins   ██████████████▒░░░░░░░░░░   56.70 %
-JSON         5 hrs 7 mins    ███████▒░░░░░░░░░░░░░░░░░   28.91 %
-Terraform    1 hr 48 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.18 %
-Markdown     27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
-HTML         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+Vue.js       7 hrs 8 mins    ██████████████░░░░░░░░░░░   55.47 %
+JSON         3 hrs 46 mins   ███████▒░░░░░░░░░░░░░░░░░   29.32 %
+Terraform    1 hr 4 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 %
+Markdown     27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
+HTML         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
 ```
 
 <!--END_SECTION:waka-->
