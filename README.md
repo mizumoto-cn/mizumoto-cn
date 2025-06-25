@@ -73,13 +73,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 36 mins
+Total Time: 3 mins
 
-Scala        16 mins         ███████████▒░░░░░░░░░░░░░   45.15 %
-Markdown     11 mins         ████████░░░░░░░░░░░░░░░░░   31.38 %
-C++          7 mins          █████░░░░░░░░░░░░░░░░░░░░   19.54 %
-Python       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
-TypeScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+Scala   3 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
