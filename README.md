@@ -73,9 +73,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 3 mins
+Total Time: 1 hr 19 mins
 
-Scala   3 mins          █████████████████████████   100.00 %
+Go         59 mins         ██████████████████▓░░░░░░   74.47 %
+YAML       7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.77 %
+Markdown   7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.55 %
+Scala      3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
+C++        1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
 ```
 
 <!--END_SECTION:waka-->
