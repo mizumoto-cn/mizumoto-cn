@@ -73,9 +73,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 18 mins
+Total Time: 2 hrs 40 mins
 
-YAML   18 mins         █████████████████████████   100.00 %
+YAML        2 hrs 4 mins    ███████████████████▒░░░░░   77.17 %
+Terraform   36 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.83 %
 ```
 
 <!--END_SECTION:waka-->
