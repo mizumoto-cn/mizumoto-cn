@@ -73,10 +73,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 7 mins
+Total Time: 1 hr 1 min
 
-YAML     56 mins         █████████████████████░░░░   83.67 %
-Python   10 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.33 %
+YAML     50 mins         ████████████████████▓░░░░   82.25 %
+Python   10 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.75 %
 ```
 
 <!--END_SECTION:waka-->
