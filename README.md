@@ -73,9 +73,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 6 mins
+Total Time: 1 hr 3 mins
 
-YAML   1 hr 6 mins     █████████████████████████   100.00 %
+YAML   1 hr 1 min      ████████████████████████▒   97.09 %
+C      1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
 ```
 
 <!--END_SECTION:waka-->
