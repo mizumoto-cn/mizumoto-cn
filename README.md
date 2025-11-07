@@ -73,11 +73,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 hrs
+Total Time: 1 hr 22 mins
 
-Markdown    1 hr 19 mins    ████████████████▒░░░░░░░░   65.84 %
-Terraform   41 mins         ████████▓░░░░░░░░░░░░░░░░   34.10 %
-YAML        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Markdown    1 hr 19 mins    ████████████████████████░   96.15 %
+Terraform   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
+YAML        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
