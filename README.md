@@ -73,10 +73,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 3 hrs 25 mins
+Total Time: 2 hrs 49 mins
 
-Markdown   1 hr 44 mins    ████████████▓░░░░░░░░░░░░   50.77 %
-YAML       1 hr 41 mins    ████████████▒░░░░░░░░░░░░   49.23 %
+Markdown   1 hr 56 mins    █████████████████░░░░░░░░   68.34 %
+YAML       53 mins         ████████░░░░░░░░░░░░░░░░░   31.66 %
 ```
 
 <!--END_SECTION:waka-->
