@@ -73,9 +73,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 15 mins
+Total Time: 1 min
 
-Terraform   15 mins         █████████████████████████   100.00 %
+Terraform   1 min           █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
