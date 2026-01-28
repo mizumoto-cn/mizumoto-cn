@@ -73,9 +73,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 14 mins
+Total Time: 15 mins
 
-Markdown   14 mins         █████████████████████████   100.00 %
+Markdown    14 mins         ███████████████████████▒░   93.98 %
+Terraform   0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
 ```
 
 <!--END_SECTION:waka-->
