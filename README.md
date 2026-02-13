@@ -75,8 +75,7 @@
 ```txt
 Total Time: 14 mins
 
-Terraform   14 mins         █████████████████████████   99.86 %
-YAML        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Terraform   14 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
