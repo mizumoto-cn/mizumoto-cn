@@ -73,13 +73,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 28 mins
+Total Time: 2 hrs 45 mins
 
-Other        1 hr 11 mins          ████████████████████▒░░░░   81.07 %
-YAML         7 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 %
-Markdown     4 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
-Terraform    3 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
-JSON         0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+Other        2 hrs 10 mins         ███████████████████▓░░░░░   79.20 %
+YAML         20 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.58 %
+Markdown     4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
+Git Config   4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
+Terraform    3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
 ```
 
 <!--END_SECTION:waka-->
