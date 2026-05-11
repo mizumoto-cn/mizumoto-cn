@@ -73,10 +73,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 3 mins
+Total Time: 4 mins
 
-HTML    3 mins                █████████████████████░░░░   84.26 %
-Other   0 secs                ████░░░░░░░░░░░░░░░░░░░░░   15.74 %
+Markdown     4 mins                ██████████████████████▓░░   90.44 %
+Git Config   0 secs                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.56 %
 ```
 
 <!--END_SECTION:waka-->
