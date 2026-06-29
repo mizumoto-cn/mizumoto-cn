@@ -73,13 +73,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 4 hrs 53 mins
+Total Time: 4 hrs 13 mins
 
-Markdown     3 hrs 28 mins         █████████████████▓░░░░░░░   70.82 %
-Terraform    27 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.34 %
-Git Config   23 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 %
-Python       19 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 %
-YAML         13 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
+Markdown     2 hrs 20 mins         ██████████████░░░░░░░░░░░   55.68 %
+Terraform    37 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.65 %
+HTML         29 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.84 %
+Python       25 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.11 %
+SQL          11 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
 ```
 
 <!--END_SECTION:waka-->
